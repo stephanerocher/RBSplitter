@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Données (droits d'auteur)
+*.pdf
+*.txt
+*_titres.csv
+*_clean.pdf
+*_titres_pages.txt
+realbook/
+No_Publish/
